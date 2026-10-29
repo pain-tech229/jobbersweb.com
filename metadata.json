@@ -1,0 +1,6 @@
+{
+  "name": "Jobber3 · Web3 Contributor Platform & Pitch Engine",
+  "description": "Minimalist Web3 contractor platform to discover verified protocol projects, craft high-converting pitches, and gain insights into ecosystem demands.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
